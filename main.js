@@ -1,1 +1,3 @@
-console.log("hello")
+let = txt = "master"
+console.clear()
+console.log(txt)
