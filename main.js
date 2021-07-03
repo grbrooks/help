@@ -1,4 +1,3 @@
 console.clear()
-var txt = 10
-txt++
+let txt = ""
 console.log(txt);
